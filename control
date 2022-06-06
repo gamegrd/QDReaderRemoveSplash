@@ -1,0 +1,9 @@
+Package: nehyci.qdreaderremovesplash
+Name: QDReaderRemoveSplash
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 起点读书 移除启动广告
+Maintainer: nehyci
+Author: nehyci
+Section: Tweaks
+Depends: firmware (>= 9.0)
